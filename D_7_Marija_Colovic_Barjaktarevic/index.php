@@ -29,7 +29,7 @@
  echo $kusurP;
  echo "<br>";
  $kusurM = $m - $cena;
- echo $kusurM
+ echo $kusurM;
 
 
 ?>
